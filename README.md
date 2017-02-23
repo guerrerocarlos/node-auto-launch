@@ -17,7 +17,7 @@ Auto-launch your app on login.
 ## Usage
 
 ```javascript
-var AutoLaunch = require('auto-launch');
+var AutoLaunch = require('auto-launch-patched');
 
 var minecraftAutoLauncher = new AutoLaunch({
 	name: 'Minecraft',
